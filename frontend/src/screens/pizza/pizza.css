@@ -1,0 +1,10 @@
+#cartButton{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+#pizzaCard{
+    border: 1px black solid;
+    width: 250px;
+}

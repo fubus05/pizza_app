@@ -1,0 +1,21 @@
+#countrySelect {
+    width: 150px;
+    border: 0;
+    border-bottom: black 1px solid;
+    font-size: 15px;
+    outline: none;
+}
+
+#countryConfirm{
+    margin-top: 15px;
+    width: 150px;
+    font-size: 15px;
+    background: none;
+    border: black 1px solid;
+    border-radius: 10px;
+}
+
+button > a{
+    text-decoration: none;
+    color: black;
+}
